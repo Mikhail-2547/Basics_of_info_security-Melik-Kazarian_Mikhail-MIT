@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mil\\.nuget\\packages\\": {}
+    "C:\\Users\\###\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mil\\source\\repos\\Info sequrity\\Projects\\Lab_1\\Ex_1\\Ex_1.csproj",
+      "projectUniqueName": "C:\\Users\\###\\Source\\Repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_1\\Ex_1.csproj",
       "projectName": "Ex_1",
-      "projectPath": "C:\\Users\\mil\\source\\repos\\Info sequrity\\Projects\\Lab_1\\Ex_1\\Ex_1.csproj",
-      "packagesPath": "C:\\Users\\mil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mil\\source\\repos\\Info sequrity\\Projects\\Lab_1\\Ex_1\\obj\\",
+      "projectPath": "C:\\Users\\###\\Source\\Repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_1\\Ex_1.csproj",
+      "packagesPath": "C:\\Users\\###\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\###\\Source\\Repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\###\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
