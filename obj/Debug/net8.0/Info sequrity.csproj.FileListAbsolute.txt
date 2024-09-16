@@ -13,3 +13,11 @@ C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\Info sequrity.pdb
 C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\Info sequrity.genruntimeconfig.cache
 C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\ref\Info sequrity.dll
 C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\Info sequrity.sourcelink.json
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\obj\Debug\net8.0\Info sequrity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\obj\Debug\net8.0\Info sequrity.AssemblyInfoInputs.cache
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\obj\Debug\net8.0\Info sequrity.AssemblyInfo.cs
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\obj\Debug\net8.0\Info sequrity.csproj.CoreCompileInputs.cache
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\obj\Debug\net8.0\Info sequrity.sourcelink.json
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\obj\Debug\net8.0\Info sequrity.dll
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\obj\Debug\net8.0\refint\Info sequrity.dll
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\obj\Debug\net8.0\Info sequrity.pdb

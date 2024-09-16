@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mil\\source\\repos\\Info sequrity\\Projects\\Lab_1\\Ex_2\\Ex_2.csproj": {}
+    "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_2\\Ex_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mil\\source\\repos\\Info sequrity\\Projects\\Lab_1\\Ex_2\\Ex_2.csproj": {
+    "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_2\\Ex_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mil\\source\\repos\\Info sequrity\\Projects\\Lab_1\\Ex_2\\Ex_2.csproj",
+        "projectUniqueName": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_2\\Ex_2.csproj",
         "projectName": "Ex_2",
-        "projectPath": "C:\\Users\\mil\\source\\repos\\Info sequrity\\Projects\\Lab_1\\Ex_2\\Ex_2.csproj",
-        "packagesPath": "C:\\Users\\mil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mil\\source\\repos\\Info sequrity\\Projects\\Lab_1\\Ex_2\\obj\\",
+        "projectPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_2\\Ex_2.csproj",
+        "packagesPath": "C:\\Users\\###\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\###\\Source\\Repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\###\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
