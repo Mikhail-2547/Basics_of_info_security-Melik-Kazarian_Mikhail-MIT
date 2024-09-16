@@ -12,3 +12,4 @@ C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\refint\Info sequrity.dl
 C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\Info sequrity.pdb
 C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\Info sequrity.genruntimeconfig.cache
 C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\ref\Info sequrity.dll
+C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\Info sequrity.sourcelink.json
