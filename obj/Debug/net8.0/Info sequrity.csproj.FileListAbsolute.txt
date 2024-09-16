@@ -1,0 +1,14 @@
+C:\Users\mil\source\repos\Info sequrity\bin\Debug\net8.0\Info sequrity.exe
+C:\Users\mil\source\repos\Info sequrity\bin\Debug\net8.0\Info sequrity.deps.json
+C:\Users\mil\source\repos\Info sequrity\bin\Debug\net8.0\Info sequrity.runtimeconfig.json
+C:\Users\mil\source\repos\Info sequrity\bin\Debug\net8.0\Info sequrity.dll
+C:\Users\mil\source\repos\Info sequrity\bin\Debug\net8.0\Info sequrity.pdb
+C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\Info sequrity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\Info sequrity.AssemblyInfoInputs.cache
+C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\Info sequrity.AssemblyInfo.cs
+C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\Info sequrity.csproj.CoreCompileInputs.cache
+C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\Info sequrity.dll
+C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\refint\Info sequrity.dll
+C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\Info sequrity.pdb
+C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\Info sequrity.genruntimeconfig.cache
+C:\Users\mil\source\repos\Info sequrity\obj\Debug\net8.0\ref\Info sequrity.dll
