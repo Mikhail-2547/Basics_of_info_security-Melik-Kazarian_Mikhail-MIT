@@ -11,11 +11,11 @@ const string known_word = "Mit21";
 /*Console.WriteLine("Decrypted: " + Ex_1.Encrypting.decryption(Encrypting.file_reading(file_name), known_word));
 */
 
-/*Ex_1.Encrypting.string_to_five(Ex_1.Encrypting.file_reading(file_name), known_word);
+Ex_1.Encrypting.string_to_five(Ex_1.Encrypting.file_reading(file_name), known_word);
+
+
+/*Console.WriteLine(Ex_1.Encrypting.file_reading_decrypted(Ex_1.Encrypting.encrypt_procedures(Ex_1.Encrypting.file_reading(file_name), Ex_1.Encrypting.string_to_bytes(key))));
 */
-
-Console.WriteLine(Ex_1.Encrypting.file_reading_decrypted(Ex_1.Encrypting.encrypt_procedures(Ex_1.Encrypting.file_reading(file_name), Ex_1.Encrypting.string_to_bytes(key))));
-
 
 
 

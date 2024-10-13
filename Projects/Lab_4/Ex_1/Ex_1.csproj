@@ -3,14 +3,12 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>Info_sequrity</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Projects\Lab_3\" />
-    <Folder Include="Projects\Lab_4\" />
+    <ProjectReference Include="..\..\Lab_1\Ex_2\Ex_2.csproj" />
   </ItemGroup>
 
 </Project>
