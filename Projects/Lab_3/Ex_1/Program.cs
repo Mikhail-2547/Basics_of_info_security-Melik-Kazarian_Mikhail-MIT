@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Security.Cryptography;
-using static Hash.Hash_algorithms;
+using static Ex_1.Hash_algorithms;
 
 
 
@@ -11,54 +11,6 @@ const string strForHash3 = "Hello world!";
 string[] strForHash_list = { strForHash1, strForHash2, strForHash3 };
 
 
-
-/*--EXAMPLE--*/
-
-/*-- Algorithm MD5 _EXAMPLE_ --*/
-
-/*
-var md5ForStr1 = ComputeHashMd5(strForHash1);
-var md5ForStr2 = ComputeHashMd5(strForHash2);
-var md5ForStr3 = ComputeHashMd5(strForHash3);
-
-Guid guid1 = new Guid(md5ForStr1);
-Guid guid2 = new Guid(md5ForStr2);
-Guid guid3 = new Guid(md5ForStr3);
-
-dynamic[] md5ForStr_list = { md5ForStr1, md5ForStr2, md5ForStr3 };
-Guid[] guid_list = { guid1, guid2, guid3 };
-
-
-for (int i = 0; i < 3; i++)
-{
-    Console.WriteLine($"Str:{strForHash_list[i]}");
-    Console.WriteLine($"Hash MD5:{Convert.ToBase64String(md5ForStr_list[i])}");
-    Console.WriteLine($"Guid:{guid_list[i]}");
-}
-*/
-
-/*-- Algorithm SHA(Secure Hash Algorithm) _EXAMPLE_ --*/
-
-/*
-var sha256ForStr1 = ComputeHashSha256(strForHash1);
-var sha256ForStr2 = ComputeHashSha256(strForHash2);
-var sha256ForStr3 = ComputeHashSha256(strForHash3);
-
-
-dynamic[] sha256ForStr_list = { sha256ForStr1, sha256ForStr2, sha256ForStr3 };
-
-for (int i = 0; i < 3; i++)
-{
-    Console.WriteLine($"Str:{strForHash_list[i]}");
-    Console.WriteLine($"Hash sha256:{Convert.ToBase64String(sha256ForStr_list[i])}");
-}
-*/
-
-/*-----------------------------------------------------*/
-
-/*--EX_1--*/
-
-/*
 var md5ForStr1 = ComputeHashMd5(strForHash1);
 var md5ForStr2 = ComputeHashMd5(strForHash2);
 var md5ForStr3 = ComputeHashMd5(strForHash3);
@@ -101,13 +53,3 @@ for  (int i = 0; i < 3; i++)
     Console.WriteLine("---------------------------");
     Console.WriteLine();
 }
-*/
-
-/*--Ex_2--*/
-
-string hash = "41664ae38eebbe01f730cdb5e6f6ce4e";
-string hmac_hash = "40pmQeuOAb73MM215vbOTg==";
-int password_length = 8;
-
-Console.WriteLine($"Hash: {hash}");
-Console.WriteLine($"Password: {BruteForcePassword(string_to_bytes(hash), string_to_bytes(hmac_hash), password_length)}");

@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_3\\Ex_3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_2\\Ex_2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_2\\Ex_2.csproj",
+        "projectName": "Ex_2",
+        "projectPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_2\\Ex_2.csproj",
+        "packagesPath": "C:\\Users\\###\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\###\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_1\\Ex_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_1\\Ex_1.csproj",
+        "projectName": "Ex_1",
+        "projectPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_1\\Ex_1.csproj",
+        "packagesPath": "C:\\Users\\###\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\###\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_2\\Ex_2.csproj": {
+                "projectPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_1\\Ex_2\\Ex_2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_3\\Ex_3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_3\\Ex_3.csproj",
+        "projectName": "Ex_3",
+        "projectPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_3\\Ex_3.csproj",
+        "packagesPath": "C:\\Users\\###\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\###\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_1\\Ex_1.csproj": {
+                "projectPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_1\\Ex_1.csproj"
+              },
+              "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Test\\Ex_2_.csproj": {
+                "projectPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Test\\Ex_2_.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Test\\Ex_2_.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Test\\Ex_2_.csproj",
+        "projectName": "Ex_2_",
+        "projectPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Test\\Ex_2_.csproj",
+        "packagesPath": "C:\\Users\\###\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\###\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_1\\Ex_1.csproj": {
+                "projectPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_1\\Ex_1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

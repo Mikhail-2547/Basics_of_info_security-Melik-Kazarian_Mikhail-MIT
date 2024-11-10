@@ -1,0 +1,15 @@
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\bin\Debug\net8.0\Ex_1.exe
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\bin\Debug\net8.0\Ex_1.deps.json
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\bin\Debug\net8.0\Ex_1.runtimeconfig.json
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\bin\Debug\net8.0\Ex_1.dll
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\bin\Debug\net8.0\Ex_1.pdb
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\obj\Debug\net8.0\Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\obj\Debug\net8.0\Ex_1.AssemblyInfoInputs.cache
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\obj\Debug\net8.0\Ex_1.AssemblyInfo.cs
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\obj\Debug\net8.0\Ex_1.csproj.CoreCompileInputs.cache
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\obj\Debug\net8.0\Ex_1.sourcelink.json
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\obj\Debug\net8.0\Ex_1.dll
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\obj\Debug\net8.0\refint\Ex_1.dll
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\obj\Debug\net8.0\Ex_1.pdb
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\obj\Debug\net8.0\Ex_1.genruntimeconfig.cache
+C:\Users\###\source\repos\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\Projects\Lab_7\Ex_1\obj\Debug\net8.0\ref\Ex_1.dll

@@ -9,6 +9,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Projects\Новая папка\**" />
+    <EmbeddedResource Remove="Projects\Новая папка\**" />
+    <None Remove="Projects\Новая папка\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Projects\Lab_3\" />
     <Folder Include="Projects\Lab_4\" />
   </ItemGroup>
