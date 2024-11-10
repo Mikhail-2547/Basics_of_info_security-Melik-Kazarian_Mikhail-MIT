@@ -6,7 +6,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hash
+namespace Ex_1
 {
     public class Hash_algorithms
     {
@@ -92,63 +92,6 @@ namespace Hash
             byte[] data = string_to_bytes(dataForHash);
             return ComputeHashSha512(data);
         }
-
-        /*--Algorithm HMAC(Hash Message Authentication Code)--*/
-
-        public static byte[] ComputeHmacMd5(byte[] dataForHash, byte[] key)
-        {
-            using (var hmac = new HMACMD5())
-            {
-                return hmac.ComputeHash(dataForHash);
-            }
-        }
-        public static byte[] ComputeHmacSha1(byte[] dataForHash, byte[] key)
-        {
-            using (var hmac = new HMACSHA1())
-            {
-                return hmac.ComputeHash(dataForHash);
-            }
-        }
-        public static byte[] ComputeHmacSha256(byte[] dataForHash, byte[] key)
-        {
-            using (var hmac = new HMACSHA256())
-            {
-                return hmac.ComputeHash(dataForHash);
-            }
-        }
-        public static byte[] ComputeHmacSha384(byte[] dataForHash, byte[] key)
-        {
-            using (var hmac = new HMACSHA384())
-            {
-                return hmac.ComputeHash(dataForHash);
-            }
-        }
-        public static byte[] ComputeHmacSha512(byte[] dataForHash, byte[] key)
-        {
-            using (var hmac = new HMACSHA512())
-            {
-                return hmac.ComputeHash(dataForHash);
-            }
-        }
-
-        /*----------*/
-
-        public static string BruteForcePassword(byte[] data, byte[] hmac_hash, int length)
-        {
-            byte[] result;
-            string password;
-            for (int i = 0; i < Math.Pow(10, length); i++)
-            {
-                password = i.ToString().PadLeft(length, '0');
-                result = ComputeHmacMd5(hmac_hash, string_to_bytes(password));
-
-                if (data == result)
-                {
-                    return password;
-                }
-            }
-            return "Пароль не знайдено";
-
-        }
     }
 }
+
