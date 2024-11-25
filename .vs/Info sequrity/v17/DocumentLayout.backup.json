@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3078F1C5-875B-4952-A1C1-052D6F602CDB}|Projects\\Lab_4\\Ex_3\\Ex_3.csproj|c:\\users\\###\\source\\repos\\basics_of_info_security-melik-kazarian_mikhail-mit\\projects\\lab_4\\ex_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3078F1C5-875B-4952-A1C1-052D6F602CDB}|Projects\\Lab_4\\Ex_3\\Ex_3.csproj|solutionrelative:projects\\lab_4\\ex_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4F4079A-C6FA-4DDF-9B75-BE538D35CDF7}|Projects\\Lab_8\\Ex_1\\Ex_1.csproj|c:\\users\\###\\source\\repos\\basics_of_info_security-melik-kazarian_mikhail-mit\\projects\\lab_8\\ex_1\\protector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F4079A-C6FA-4DDF-9B75-BE538D35CDF7}|Projects\\Lab_8\\Ex_1\\Ex_1.csproj|solutionrelative:projects\\lab_8\\ex_1\\protector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21A8289A-0EF2-4753-9528-A5ACFC659964}|Projects\\Lab_4\\Test\\Ex_2_.csproj|c:\\users\\###\\source\\repos\\basics_of_info_security-melik-kazarian_mikhail-mit\\projects\\lab_4\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21A8289A-0EF2-4753-9528-A5ACFC659964}|Projects\\Lab_4\\Test\\Ex_2_.csproj|solutionrelative:projects\\lab_4\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4F4079A-C6FA-4DDF-9B75-BE538D35CDF7}|Projects\\Lab_8\\Ex_1\\Ex_1.csproj|c:\\users\\###\\source\\repos\\basics_of_info_security-melik-kazarian_mikhail-mit\\projects\\lab_8\\ex_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F4079A-C6FA-4DDF-9B75-BE538D35CDF7}|Projects\\Lab_8\\Ex_1\\Ex_1.csproj|solutionrelative:projects\\lab_8\\ex_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21A8289A-0EF2-4753-9528-A5ACFC659964}|Projects\\Lab_4\\Test\\Ex_2_.csproj|c:\\users\\###\\source\\repos\\basics_of_info_security-melik-kazarian_mikhail-mit\\projects\\lab_4\\test\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21A8289A-0EF2-4753-9528-A5ACFC659964}|Projects\\Lab_4\\Test\\Ex_2_.csproj|solutionrelative:projects\\lab_4\\test\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21A8289A-0EF2-4753-9528-A5ACFC659964}|Projects\\Lab_4\\Test\\Ex_2_.csproj|c:\\users\\###\\source\\repos\\basics_of_info_security-melik-kazarian_mikhail-mit\\projects\\lab_4\\test\\pbkdf2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21A8289A-0EF2-4753-9528-A5ACFC659964}|Projects\\Lab_4\\Test\\Ex_2_.csproj|solutionrelative:projects\\lab_4\\test\\pbkdf2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4F4079A-C6FA-4DDF-9B75-BE538D35CDF7}|Projects\\Lab_8\\Ex_1\\Ex_1.csproj|c:\\users\\###\\source\\repos\\basics_of_info_security-melik-kazarian_mikhail-mit\\projects\\lab_8\\ex_1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F4079A-C6FA-4DDF-9B75-BE538D35CDF7}|Projects\\Lab_8\\Ex_1\\Ex_1.csproj|solutionrelative:projects\\lab_8\\ex_1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_3\\Program.cs",
-              "RelativeDocumentMoniker": "Projects\\Lab_4\\Ex_3\\Program.cs",
-              "ToolTip": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Ex_3\\Program.cs",
-              "RelativeToolTip": "Projects\\Lab_4\\Ex_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Title": "Protector.cs",
+              "DocumentMoniker": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_8\\Ex_1\\Protector.cs",
+              "RelativeDocumentMoniker": "Projects\\Lab_8\\Ex_1\\Protector.cs",
+              "ToolTip": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_8\\Ex_1\\Protector.cs",
+              "RelativeToolTip": "Projects\\Lab_8\\Ex_1\\Protector.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:03:23.467Z",
+              "WhenOpened": "2024-11-24T21:08:01.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Hash.cs",
-              "DocumentMoniker": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Test\\Hash.cs",
-              "RelativeDocumentMoniker": "Projects\\Lab_4\\Test\\Hash.cs",
-              "ToolTip": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Test\\Hash.cs",
-              "RelativeToolTip": "Projects\\Lab_4\\Test\\Hash.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_8\\Ex_1\\User.cs",
+              "RelativeDocumentMoniker": "Projects\\Lab_8\\Ex_1\\User.cs",
+              "ToolTip": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_8\\Ex_1\\User.cs",
+              "RelativeToolTip": "Projects\\Lab_8\\Ex_1\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:01:12.249Z",
+              "WhenOpened": "2024-11-24T21:05:46.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Test\\Program.cs",
-              "RelativeDocumentMoniker": "Projects\\Lab_4\\Test\\Program.cs",
-              "ToolTip": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Test\\Program.cs",
-              "RelativeToolTip": "Projects\\Lab_4\\Test\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_8\\Ex_1\\Program.cs",
+              "RelativeDocumentMoniker": "Projects\\Lab_8\\Ex_1\\Program.cs",
+              "ToolTip": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_8\\Ex_1\\Program.cs",
+              "RelativeToolTip": "Projects\\Lab_8\\Ex_1\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAD0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T22:55:07.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PBKDF2.cs",
-              "DocumentMoniker": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Test\\PBKDF2.cs",
-              "RelativeDocumentMoniker": "Projects\\Lab_4\\Test\\PBKDF2.cs",
-              "ToolTip": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_4\\Test\\PBKDF2.cs",
-              "RelativeToolTip": "Projects\\Lab_4\\Test\\PBKDF2.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAIAwwCUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T22:47:32.453Z",
+              "WhenOpened": "2024-11-25T00:03:50.199Z",
               "EditorCaption": ""
             }
           ]
