@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\###\\.nuget\\packages\\": {}
+    "C:\\Users\\mil\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_6\\Ex_1\\Ex_1.csproj",
+      "projectUniqueName": "C:\\Users\\mil\\source\\repos\\Info_Security\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_6\\Ex_1\\Ex_1.csproj",
       "projectName": "Ex_1",
-      "projectPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_6\\Ex_1\\Ex_1.csproj",
-      "packagesPath": "C:\\Users\\###\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\###\\source\\repos\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_6\\Ex_1\\obj\\",
+      "projectPath": "C:\\Users\\mil\\source\\repos\\Info_Security\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_6\\Ex_1\\Ex_1.csproj",
+      "packagesPath": "C:\\Users\\mil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mil\\source\\repos\\Info_Security\\Basics_of_info_security-Melik-Kazarian_Mikhail-MIT\\Projects\\Lab_6\\Ex_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\###\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -41,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -67,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

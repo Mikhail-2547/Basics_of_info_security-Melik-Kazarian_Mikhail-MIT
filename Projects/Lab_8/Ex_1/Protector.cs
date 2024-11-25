@@ -12,12 +12,28 @@ namespace Ex_1
 {
     public class Protector
     {
-        private static Dictionary<string, User> _users = new Dictionary<string, User>();
+        private static byte[] saltForAdmin = PasswordSS.SaltedHash.GenerateSalt();
+        private static User admin = new User() { Id = 0, Login = "admin", Roles = new[] { "Admin" }, Salt = saltForAdmin, PasswordHash = Encoding.UTF8.GetString(passwordHash(Encoding.UTF8.GetBytes("admin"), saltForAdmin, 100_000, HashAlgorithmName.SHA512)) };
+        private static Dictionary<string, User> _users = new Dictionary<string, User>() { {"admin", admin } };
+        private static int id = 1;
 
+        public static byte[] passwordHash(byte[] data, byte[] salt, int numOfIterations, HashAlgorithmName algorithm) {
+            using (var rfc2898 = new Rfc2898DeriveBytes(data, salt, numOfIterations, algorithm))
+            {
+                return rfc2898.GetBytes(20);
+            }
+
+        }
         public static User Register(string userName, string password, string roles)
         {
             if (_users.Keys.Contains(userName))
             {
+                return null;
+            }
+            if (roles == "Admin")
+            {
+                Console.WriteLine("You can not become an Admin!!!");
+                Console.ReadLine();
                 return null;
             }
 
@@ -26,12 +42,9 @@ namespace Ex_1
 
             user.Salt = salt;
 
-            using (var rfc2898 = new Rfc2898DeriveBytes(Encoding.UTF8.GetBytes(password), salt, 100_000, HashAlgorithmName.SHA512))
-            {
-                user.PasswordHash = Encoding.UTF8.GetString(rfc2898.GetBytes(20));
-            }
+            user.PasswordHash = Encoding.UTF8.GetString(passwordHash(Encoding.UTF8.GetBytes(password), salt, 100_000, HashAlgorithmName.SHA512));
 
-
+            user.Id = id++;
             user.Login = userName;
             user.Roles[0] = roles;
             _users.Add(userName, user);
@@ -57,11 +70,11 @@ namespace Ex_1
             Console.WriteLine();
             if (!_users[username].Roles.Contains("Admin"))
             {
-                Console.WriteLine($"Name: {username}\nPassword: *******\nRole: {_users[username].Roles[0]}");
+                Console.WriteLine($"Id: {_users[username].Id}\nName: {username}\nPassword: *******\nRole: {_users[username].Roles[0]}");
                 Console.ReadLine();
                 return;
             }
-            Console.WriteLine($"Name: {username}\nPassword: {password}\nHash of Password: {_users[username].PasswordHash}\nRole: {_users[username].Roles[0]}");
+            Console.WriteLine($"Id: {_users[username].Id}\nName: {username}\nPassword: {password}\nHash of Password: {_users[username].PasswordHash}\nRole: {_users[username].Roles[0]}");
             Console.ReadLine();
         }
 
@@ -75,8 +88,10 @@ namespace Ex_1
                 var identify = new GenericIdentity(username, "OIBAuth");
                 var principal = new GenericPrincipal(identify, _users[username].Roles);
 
+                
+                
                 System.Threading.Thread.CurrentPrincipal = principal;
-                Console.WriteLine("Autorised...");
+                Console.WriteLine("Autorized...");
                 UserData(username, password);
                 check = true;
                 return;
@@ -96,5 +111,34 @@ namespace Ex_1
             }
             Console.WriteLine("You have access to this secure feature");
         }
+        public static void DisplayUserList()
+        {
+            try
+            {
+                OnlyForAdminsFeature();
+                Console.WriteLine("ID\tName\t\tRole");
+                Console.WriteLine(new string('-', 45));
+                foreach (var user in _users)
+                {
+                    Console.WriteLine($"{user.Value.Id}\t{user.Value.Login,-15}{user.Value.Roles[0],-15}");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("ID\tName\t\tRole");
+                Console.WriteLine(new string('-', 45));
+                int counter = 0;
+                foreach (var user in _users)
+                {
+                    if (counter == 0)
+                    {
+                        counter++;
+                        continue;
+                    }
+                    Console.WriteLine($"{user.Value.Id}\t{user.Value.Login,-15}{user.Value.Roles[0],-15}");
+                }
+            }
+        }
+
     }
 }

@@ -16,10 +16,7 @@
       },
       "Ex_1/1.0.0": {
         "runtime": {
-          "Ex_1.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Ex_1.dll": {}
         }
       }
     }

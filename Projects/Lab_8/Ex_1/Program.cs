@@ -85,6 +85,7 @@ class Program
                         {
                             Console.Clear();
                             Console.WriteLine("u. *USER*");
+                            Console.WriteLine("t  *Test if Admin*");
                             Console.WriteLine("l. *List of Users*");
                             Console.WriteLine("x. *LogOut*");
                             Console.Write("Choose a command --> ");
@@ -93,6 +94,21 @@ class Program
                             {
                                 case "u":
                                     Protector.UserData(username, password);
+                                    break;
+                                case "t":
+                                    try
+                                    {
+                                        Protector.OnlyForAdminsFeature();
+                                    }
+                                    catch (Exception ex)
+                                    {
+                                        Console.WriteLine($"{ex.GetType()}: {ex.Message}");
+                                    }
+                                    Console.ReadLine();
+                                    break;
+                                case "l":
+                                    Protector.DisplayUserList();
+                                    Console.ReadLine();
                                     break;
                                 case "x":
                                     x = false;
